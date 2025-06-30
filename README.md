@@ -22,3 +22,10 @@ In this project, SQL was used to retrieve specific subsets of data from a databa
 ![image](https://github.com/user-attachments/assets/582e24ad-5ef7-4de0-adc3-40262e3255a8)
 
 - Using the WHERE clause and making  operating_system = OS 2 to further narrow our search.
+
+![image](https://github.com/user-attachments/assets/d30286b5-b449-4fe5-9ed1-bdbf99200183)
+
+- Now our search has been reduced from 200 rows to 80, and we have filtered for OS 2 using the WHERE clause.
+
+ In this task, we need to retrieve a list of all the employees in the Finance and Sales departments to obtain their office numbers. A notice about handling confidential financial information will be posted to these offices.
+
