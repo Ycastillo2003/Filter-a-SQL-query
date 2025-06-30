@@ -36,3 +36,7 @@ In this project, SQL was used to retrieve specific subsets of data from a databa
 ![image](https://github.com/user-attachments/assets/178588d4-1f91-4153-b970-9f27a3a8bd7d)
 
 - Now we can see all the info pertaining to the employees in the finance department.
+
+![image](https://github.com/user-attachments/assets/8e61c067-7fd3-468e-b7ad-663cf4083e45)
+
+- Now we are going to do the same thing but for the sales deparment.
