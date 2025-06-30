@@ -19,6 +19,6 @@ In this project, SQL was used to retrieve specific subsets of data from a databa
 
 - Receiving over 200 rows of data.
 
-![image](https://github.com/user-attachments/assets/691f3141-f8c6-4e54-a23b-f6d006093cc8)
+![image](https://github.com/user-attachments/assets/582e24ad-5ef7-4de0-adc3-40262e3255a8)
 
 - Using the WHERE clause and making  operating_system = OS 2 to further narrow our search.
