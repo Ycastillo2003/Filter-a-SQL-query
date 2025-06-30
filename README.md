@@ -29,3 +29,6 @@ In this project, SQL was used to retrieve specific subsets of data from a databa
 
  In this task, we need to retrieve a list of all the employees in the Finance and Sales departments to obtain their office numbers. A notice about handling confidential financial information will be posted to these offices.
 
+![image](https://github.com/user-attachments/assets/5e9b6dba-4864-4fa1-96e7-dac8e59c40ae)
+
+- We will start with the finance department, as you can see in the picture above, with the SELECT * FROM employees WHERE department = 'Finance'; command to only get finance department data from the employees tables.
