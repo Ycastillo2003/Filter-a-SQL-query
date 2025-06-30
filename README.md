@@ -5,7 +5,7 @@ In this project, SQL was used to retrieve specific subsets of data from a databa
 
 # Environments and Technologies Used.
 - Google Cloud Virtual Machines.
-- SQL.
+- SQL (Structured Query Language).
 
 # Actions and observations.
 
