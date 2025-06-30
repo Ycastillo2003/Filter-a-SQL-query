@@ -39,4 +39,32 @@ In this project, SQL was used to retrieve specific subsets of data from a databa
 
 ![image](https://github.com/user-attachments/assets/8e61c067-7fd3-468e-b7ad-663cf4083e45)
 
-- Now we are going to do the same thing but for the sales deparment.
+- Now we are going to do the same thing, but for the sales department.
+
+![image](https://github.com/user-attachments/assets/5721bc4b-a9fb-4a8f-bbab-a84fc4217172)
+
+- Now we have the info for employees for the sales department.
+
+Our team recently discovered that there are issues with machines in the South building. In this task, we need to obtain certain employee and computer information.
+
+A machine in 'South-109' has an issue. WE need to determine which employee uses that computer so you can send them an alert.
+
+![image](https://github.com/user-attachments/assets/4290e83a-4d8b-4deb-a803-af4558873a02)
+
+- After using the WHERE clause to filter the Office Column of the employees table, we see that Jlasnky in the finance department, employee_id 1010, is who we have to notify.
+
+
+Next, our team has determined that there is an issue with all the machines in the South building. Offices in the organization are named with the building name, a hyphen, and the office number in that building (for example, 'South-109').
+
+WE Modify the query we used in the previous step so that it returns information on all the employees in the 'South' building.
+
+![image](https://github.com/user-attachments/assets/1c1650fd-6ac4-4c33-aee9-27cd46e79d6c)
+
+- Using comparison operator LIKE 'south%' to filter for entries that have zero or more characters after south
+
+![image](https://github.com/user-attachments/assets/a7d1e65b-e840-4743-8193-24e51abf2920)
+
+- Now we have an entire overview of the south building.
+
+                Thank you for making it to the end of the lab.
+
