@@ -32,3 +32,5 @@ In this project, SQL was used to retrieve specific subsets of data from a databa
 ![image](https://github.com/user-attachments/assets/5e9b6dba-4864-4fa1-96e7-dac8e59c40ae)
 
 - We will start with the finance department, as you can see in the picture above, with the SELECT * FROM employees WHERE department = 'Finance'; command to only get finance department data from the employees tables.
+
+![image](https://github.com/user-attachments/assets/178588d4-1f91-4153-b970-9f27a3a8bd7d)
