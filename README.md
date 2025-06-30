@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/55c66eb5-ce90-4351-8fe4-4bdf843d3556)
 
-# SQL: Filtering a SQL query
+# SQL: Filtering an SQL query
 In this project, SQL was used to retrieve specific subsets of data from a database by applying filtering conditions with the WHERE clause. The goal was to extract meaningful information by narrowing down results based on defined criteria such as dates, user roles, activity status, or device types.
 
 # Environments and Technologies Used.
