@@ -10,3 +10,11 @@ In this project, SQL was used to retrieve specific subsets of data from a databa
 # Actions and observations.
 
  In this scenario, we need to get specific information about employees, their machines, and the departments they’re in. Our team needs this data to perform various tasks, such as running updates, posting a privacy notice in certain departments, and sending an alert to an employee with an issue on a machine.
+
+![image](https://github.com/user-attachments/assets/24fcef1e-b1d8-4e04-808a-9d0ebd0722db)
+
+- using SELECT device_id, operating_system FROM machines;.
+
+![image](https://github.com/user-attachments/assets/34f6ca3d-8c79-4bb5-aee6-dd0dce74d9bd)
+
+- Receiving over 200 rows of data.
