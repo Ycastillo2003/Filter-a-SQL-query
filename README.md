@@ -66,5 +66,5 @@ WE Modify the query we used in the previous step so that it returns information 
 
 - Now we have an entire overview of the south building.
 
-                Thank you for making it to the end of the lab.
+  Thank you for making it to the end of the lab.
 
