@@ -85,3 +85,7 @@ In this next task, we need to investigate a recent security incident. To do this
 ![image](https://github.com/user-attachments/assets/b30c6b85-28bf-4893-b2fa-4b673283229f)![image](https://github.com/user-attachments/assets/62235f0a-03ef-4faa-acf2-ccc9bb339b8f)
 
 - Using THE operators BETWEEN & AND, we filtered our query search to show events happening between 2 certain dates. Now we also know the incident happened after work hours, so we can filter the time to only show data from after work hours.
+
+![image](https://github.com/user-attachments/assets/fb556d6c-18ce-41ec-9599-c053ead364fa)![image](https://github.com/user-attachments/assets/da018278-2aa4-4798-83d2-bc8fd9ff8351)
+
+- With this query, we narrow it down to login attempts between 2022-05-09 and 2022-05-11 and only the ones that happened after work hours.
