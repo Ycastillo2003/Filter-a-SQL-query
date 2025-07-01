@@ -3,9 +3,13 @@
 # SQL: Filtering an SQL query
 In this project, SQL was used to retrieve specific subsets of data from a database by applying filtering conditions with the WHERE clause. The goal was to extract meaningful information by narrowing down results based on defined criteria such as dates, user roles, activity status, or device types.
 
+
 # Environments and Technologies Used.
 - Google Cloud Virtual Machines.
 - SQL (Structured Query Language).
+
+# Operating Systems Used </h2>
+- Linux.
 
 # Actions and observations.
 
