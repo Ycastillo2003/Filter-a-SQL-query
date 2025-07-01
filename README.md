@@ -76,3 +76,7 @@ In this next task, we need to investigate a recent security incident. To do this
 
 - Now the data we get back from the log_in_attempts TABLE are all after the 22-05-09 date since we used the operator >.
   
+![image](https://github.com/user-attachments/assets/95ef6592-0bbd-448e-bd0a-5931c42d18af)![image](https://github.com/user-attachments/assets/1d1a7c59-2d37-43b0-b31e-6e5edc2738cd)
+
+
+- Now to have more context investigating this security incident so using >= we make it so the data we get back from the query  are the events that happened on 22-05-09 and after. 
