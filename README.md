@@ -94,4 +94,54 @@ In this next task, we need to investigate a recent security incident. To do this
 
 - With this query, we narrow it down to login attempts between 2022-05-09 and 2022-05-11 and only the ones that happened after work hours Now that our search has been narrowed, it is easer to analyze the data and locate when and where the incident happen.
 
-  In this lab, we practiced retrieving and analyzing data from a database using SQL filtering techniques. WE used the WHERE clause along with comparison and logical operators (such as =, >, <, AND, OR, LIKE, and BETWEEN) to narrow down query results based on specific conditions.
+
+    Now we need to investigate a suspicious event that occurred on '2022-05-09'. We want to retrieve all login attempts that occurred on 2022-05-09 and the day before 2022-05-08.
+
+
+ ![image](https://github.com/user-attachments/assets/5855f5ab-9225-4e71-b089-ef854d608827)![image](https://github.com/user-attachments/assets/e9e6a03c-c644-4fbe-a562-c177aa1e1b9a)
+
+
+- With this query, we can get login attempts that happened on those specific dates. Using the logical operator OR, it retrieves data that either happened on one date or the other.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   In this lab, we practiced retrieving and analyzing data from a database using SQL filtering techniques. WE used the WHERE clause along with comparison and logical operators (such as =, >, <, AND, OR, LIKE, and BETWEEN) to narrow down query results based on specific conditions.
