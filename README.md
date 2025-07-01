@@ -104,12 +104,12 @@ In this next task, we need to investigate a recent security incident. To do this
 - With this query, we can get login attempts that happened on those specific dates. Using the logical operator OR, it retrieves data that either happened on one date or the other.
 
 
+ Our team is updating employee machines, and you need to obtain the information about employees in the 'Marketing' department who are located in all offices in the East building (such as 'East-170' or 'East-320').
 
 
+![image](https://github.com/user-attachments/assets/4cba0b11-73bc-4007-8cc4-ac62b9e44186) ![image](https://github.com/user-attachments/assets/3f1bf2cc-5f3b-4342-8cd8-511e7197c713)
 
-
-
-
+- With this query with a WHERE clause and the elogical operator OR we filter for this data.
 
 
 
