@@ -109,14 +109,10 @@ In this next task, we need to investigate a recent security incident. To do this
 
 ![image](https://github.com/user-attachments/assets/4cba0b11-73bc-4007-8cc4-ac62b9e44186) ![image](https://github.com/user-attachments/assets/3f1bf2cc-5f3b-4342-8cd8-511e7197c713)
 
-- With this query with a WHERE clause and the logical operator OR, we filter for this data. We see the query returned someone IT department,t but we only want the information technology of employees in the Marketing we will use the NOT logical operator for this.
+- With this query with a WHERE clause and the logical operator OR, we filter for this data. 
 
 
-
-
-
-
-
+Our team needs to make one more update. This update was already made to employee computers in the Information Technology department. The team needs information about employees who are not in that department.l
 
 
 
