@@ -88,4 +88,6 @@ In this next task, we need to investigate a recent security incident. To do this
 
 ![image](https://github.com/user-attachments/assets/fb556d6c-18ce-41ec-9599-c053ead364fa)![image](https://github.com/user-attachments/assets/da018278-2aa4-4798-83d2-bc8fd9ff8351)
 
-- With this query, we narrow it down to login attempts between 2022-05-09 and 2022-05-11 and only the ones that happened after work hours.
+- With this query, we narrow it down to login attempts between 2022-05-09 and 2022-05-11 and only the ones that happened after work hours Now that our search has been narrowed, it is easer to analyze the data and locate when and where the incident happen.
+
+  In this lab, we practiced retrieving and analyzing data from a database using SQL filtering techniques. WE used the WHERE clause along with comparison and logical operators (such as =, >, <, AND, OR, LIKE, and BETWEEN) to narrow down query results based on specific conditions.
