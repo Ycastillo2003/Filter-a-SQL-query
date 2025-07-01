@@ -78,5 +78,10 @@ In this next task, we need to investigate a recent security incident. To do this
   
 ![image](https://github.com/user-attachments/assets/95ef6592-0bbd-448e-bd0a-5931c42d18af)![image](https://github.com/user-attachments/assets/1d1a7c59-2d37-43b0-b31e-6e5edc2738cd)
 
-
 - Now to have more context investigating this security incident so using >= we make it so the data we get back from the query  are the events that happened on 22-05-09 and after. 
+
+     We figured out that the accident happened before 22-05-11 so to get results that happened between 22-05-09 and 22-05-11.
+
+![image](https://github.com/user-attachments/assets/b30c6b85-28bf-4893-b2fa-4b673283229f)![image](https://github.com/user-attachments/assets/62235f0a-03ef-4faa-acf2-ccc9bb339b8f)
+
+- Using THE operators BETWEEN & AND, we filtered our query search to show events happening between 2 certain dates. Now we also know the incident happened after work hours, so we can filter the time to only show data from after work hours.
