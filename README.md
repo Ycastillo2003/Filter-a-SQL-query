@@ -107,9 +107,10 @@ In this next task, we need to investigate a recent security incident. To do this
  Our team is updating employee machines, and you need to obtain the information about employees in the 'Marketing' department who are located in all offices in the East building (such as 'East-170' or 'East-320').
 
 
-![image](https://github.com/user-attachments/assets/4cba0b11-73bc-4007-8cc4-ac62b9e44186) ![image](https://github.com/user-attachments/assets/3f1bf2cc-5f3b-4342-8cd8-511e7197c713)
+![image](https://github.com/user-attachments/assets/13cfa63c-6c3a-408e-aca9-14810f20237c) ![image](https://github.com/user-attachments/assets/1674b5d4-45c4-4850-a99e-f6fdd5903b02)
 
-- With this query with a WHERE clause and the logical operator OR, we filter for this data. 
+
+- This query selects all employees who work in the Marketing department and whose office is located in any location starting with "East" (like East-170, East-320, etc.). The LIKE 'East%' pattern matches any office name beginning with "East".
 
 
 Our team needs to make one more update. This update was already made to employee computers in the Information Technology department. The team needs information about employees who are not in that department.l
