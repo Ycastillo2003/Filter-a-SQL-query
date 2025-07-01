@@ -142,4 +142,4 @@ Our team needs to make one more update. This update was already made to employee
 
 
 
-   In this lab, we practiced retrieving and analyzing data from a database using SQL filtering techniques. WE used the WHERE clause along with comparison and logical operators (such as =, >, <, AND, OR, LIKE, and BETWEEN) to narrow down query results based on specific conditions.
+   In this lab, we practiced retrieving and analyzing data from a database using SQL filtering techniques. WE used the WHERE clause along with comparison and logical operators (such as =, >, <, AND, OR, LIKE, NOT, and BETWEEN) to narrow down query results based on specific conditions.
