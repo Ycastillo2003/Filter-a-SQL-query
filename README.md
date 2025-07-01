@@ -115,8 +115,9 @@ In this next task, we need to investigate a recent security incident. To do this
 
 Our team needs to make one more update. This update was already made to employee computers in the Information Technology department. The team needs information about employees who are not in that department.l
 
+![image](https://github.com/user-attachments/assets/dc2ffc8f-3c6d-4b35-8bd2-ed91792b0683)![image](https://github.com/user-attachments/assets/23c0b683-dd92-4f53-b022-0ca3845f1271)
 
-
+- This query selects all employees whose department is not Information Technology. The NOT operator reverses the condition, so it excludes anyone in the IT department. Now we know every device that needs an update.
 
 
 
