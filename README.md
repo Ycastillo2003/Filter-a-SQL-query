@@ -66,5 +66,13 @@ WE Modify the query we used in the previous step so that it returns information 
 
 - Now we have an entire overview of the south building.
 
-In this task, we need to investigate a recent security incident. To do this, you need to gather information about login attempts made after a certain date.
+In this next task, we need to investigate a recent security incident. To do this, you need to gather information about login attempts made after a certain date.
 
+![image](https://github.com/user-attachments/assets/4c2a9719-b09d-4cba-a32c-404f6bba75df)
+
+- The operator > lets us filter for dates greater than. In this example, we need dates greater than 22-05-09.
+
+![image](https://github.com/user-attachments/assets/93953087-7aea-4cf7-82a2-c0efd4f528d0)
+
+- Now the data we get back from the log_in_attempts TABLE are all after the 22-05-09 date since we used the operator >.
+  
